@@ -5,3 +5,7 @@ Create a HTTP Get to API server of GPM-Login. GPM-Login app will open profile an
 
 ## Step 2
 Use [driver_path, remote_debug_address] to create connection between Selenium / Puppeteer lib and WebDriver.
+
+`Live code video:`
+
+https://www.youtube.com/watch?v=zUJAzMzTB4g
